@@ -1,8 +1,9 @@
 #include <iostream>
 
-
 int main()
 {
-return 0
+  std::cout << "My name is Matvey\n";
+  std::cout << "I like C++\n";
+
+  return 0;
 }
-testing
