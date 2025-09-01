@@ -2,8 +2,7 @@
 
 int main()
 {
-  std::cout << "My name is Matvey\n";
-  std::cout << "I like C++\n";
-
+  std::cout << "Trying out branching...\n";
+  
   return 0;
 }
